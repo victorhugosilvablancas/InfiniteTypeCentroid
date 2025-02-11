@@ -1,4 +1,4 @@
-Copyright (c) 2025 Universidad Autónoma de Querétaro, Mexico. 
+Copyright (c) 2025 Universidad Autónoma de Querétaro, México. 
 Authors: Victor-Hugo Silva-Blancas, José-Manuel Álvarez-Alvarado, Hugo Jiménez-Hernández, 
 Ana-Marcela Herrera Navarro, Diana-Margarita Córdova-Esparza and Juvenal Rodríguez-Reséndiz.
 
