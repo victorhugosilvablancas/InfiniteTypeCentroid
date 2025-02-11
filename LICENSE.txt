@@ -1,4 +1,6 @@
-Copyright (c) 2025 Universidad Autónoma de Querétaro, Mexico. Authors: Victor-Hugo Silva-Blancas, José-Manuel Álvarez-Alvarado, Hugo Jiménez-Hernández, Ana-Marcela Herrera Navarro, Diana-Margarita Córdova-Esparza and Juvenal Rodríguez-Reséndiz.
+Copyright (c) 2025 Universidad Autónoma de Querétaro, Mexico. 
+Authors: Victor-Hugo Silva-Blancas, José-Manuel Álvarez-Alvarado, Hugo Jiménez-Hernández, 
+Ana-Marcela Herrera Navarro, Diana-Margarita Córdova-Esparza and Juvenal Rodríguez-Reséndiz.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
