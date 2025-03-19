@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"uaq.dcc.datasets"},{"l":"uaq.dcc.definitions"},{"l":"uaq.dcc.ploteo"},{"l":"uaq.infinitetypecentroid"}];updateSearchResults();
